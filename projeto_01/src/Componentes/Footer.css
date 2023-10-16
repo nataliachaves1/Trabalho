@@ -1,0 +1,14 @@
+.footer{
+    background-color: #0a4175;
+    color: #fff;
+    padding: 6px;
+    text-align: center;
+    border-top: 3px solid #d49f0c;
+  }
+  .header {
+    background-color: #0a4175;
+    color: #fff;
+    padding: 9px;
+    text-align:left;
+    border-top:3px solid #d49f0c;
+  }

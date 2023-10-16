@@ -1,0 +1,45 @@
+{
+    "servicos": [
+      {
+        "id": 1,
+        "nome": "Serviço 1",
+        "preco": 10.0
+      },
+      {
+        "id": 2,
+        "nome": "Serviço 2",
+        "preco": 10.0
+      },
+      {
+        "id": 3,
+        "nome": "Serviço 3",
+        "preco": 10.0
+      }
+    
+    ],
+    "equipe":[
+      {
+        "id":1,
+        "nome":"Jisso",
+        "url_imagem":"/img/jisso.png",
+        "alt_imagem":"cantora de k-pop",
+        "biografia":"Jisoo, nome real Kim Ji-soo, é uma cantora, dançarina e atriz sul-coreana. Ela é membro do grupo de K-pop BLACKPINK, formado pela YG Entertainment. Jisoo se destaca por sua voz única, presença de palco carismática e também fez incursões na atuação em dramas coreanos."
+      },
+      {
+        "id":2,
+        "nome":"Lisa",
+        "url_imagem":"/img/lisa.png",
+        "alt_imagem":"cantora de k-pop",
+        "biografia":"Lalisa Manoban, conhecida artisticamente como Lisa, é uma rapper, dançarina e cantora tailandesa. Ela faz parte do grupo de K-pop BLACKPINK, gerenciado pela YG Entertainment. Lisa é admirada por sua destreza na dança, estilo único e presença no palco, além de ser um ícone global da moda e um embaixadora da marca de luxo francesa Celine."
+      },
+      {
+        "id":2,
+        "nome":"Rose",
+        "url_imagem":"/img/RosE.png",
+        "alt_imagem":"cantora de k-pop",
+        "biografia":"Rosé, nome real Park Chae-young, é uma cantora sul-coreana e integrante do grupo de K-pop BLACKPINK. Conhecida por sua voz distintiva e habilidades musicais, ela também é uma talentosa guitarrista. Rosé ganhou destaque com sucessos como Stay e On The Ground, iniciando sua carreira solo após o sucesso com o BLACKPINK."
+        
+      }
+    ]
+  }
+  
